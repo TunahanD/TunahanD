@@ -16,3 +16,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tunahand&show_icons=true&locale=en" alt="tunahand" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tunahand&" alt="tunahand" /></p>
+
+![snake gif](https://github.com/TunahanD/TunahanD/blob/output/github-contribution-grid-snake.gif)
